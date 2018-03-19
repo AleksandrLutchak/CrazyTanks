@@ -1,0 +1,4 @@
+﻿  CrazyTanks.cpp
+c:\users\tom\source\repos\crazytanks\crazytanks\crazytanks.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\tom\source\repos\crazytanks\crazytanks\crazytanks.cpp(77): warning C4715: mainMenu: значение возвращается не при всех путях выполнения
+  CrazyTanks.vcxproj -> C:\Users\Tom\source\repos\CrazyTanks\Debug\CrazyTanks.exe
